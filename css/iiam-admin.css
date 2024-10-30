@@ -1,0 +1,59 @@
+.colorpicker {
+	position: absolute;
+	z-index: 100;
+}
+
+input[type="text"],
+textarea {
+	width:50%;
+}
+
+#iiam-image-width,
+#iiam-image-height {
+	width:40px;
+}
+
+#iiam-background-color,
+#iiam-title-color,
+#iiam-text-color {
+	width:70px;
+}
+
+#iiam-preview {
+	margin: 0 0 15px 0;
+	font-family: Arial;
+	line-height: 1.7;
+}
+
+#iiam-preview-ad {
+	height: 50px;
+}
+
+div#iiam-preview-ad a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+	font-size: 12px;
+	text-decoration: none;
+	color: #fff;
+}
+
+div#iiam-preview-ad a:hover {
+	text-decoration: none;
+}
+
+div#iiam-preview-ad a span {
+	display: block;
+	padding: 3px 8px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+div#iiam-preview-ad a .title {
+	display: block;
+	padding: 0;
+	font-size: 13px;
+	font-weight: bold;
+}

@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: InImageAdsManager\n"
+"POT-Creation-Date: 2012-09-19 13:25+0100\n"
+"PO-Revision-Date: 2012-09-19 13:26+0100\n"
+"Last-Translator: Stephan L. <kontakt@smart-webentwicklung.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../in-image-ad.php:47 ../in-image-ads-manager.php:386
+#: ../in-image-ads-manager.php:483 ../in-image-ads-manager.php:779
+msgid "Title"
+msgstr ""
+
+#: ../in-image-ad.php:58 ../in-image-ads-manager.php:387
+#: ../in-image-ads-manager.php:484 ../in-image-ads-manager.php:790
+msgid "Text"
+msgstr ""
+
+#: ../in-image-ad.php:69 ../in-image-ads-manager.php:801
+msgid "URL"
+msgstr ""
+
+#: ../in-image-ad.php:82 ../in-image-ads-manager.php:822
+msgid "Image Width"
+msgstr ""
+
+#: ../in-image-ad.php:93 ../in-image-ads-manager.php:834
+msgid "Image Height"
+msgstr ""
+
+#: ../in-image-ad.php:111 ../in-image-ads-manager.php:857
+msgid "Background Color"
+msgstr ""
+
+#: ../in-image-ad.php:115 ../in-image-ads-manager.php:870
+msgid "Title Color"
+msgstr ""
+
+#: ../in-image-ad.php:119 ../in-image-ads-manager.php:883
+msgid "Text Color"
+msgstr ""
+
+#: ../in-image-ad.php:135
+msgid "This field is required and must not be empty."
+msgstr ""
+
+#: ../in-image-ad.php:144
+msgid "Must be an positive integer greater than or equal 100."
+msgstr ""
+
+#: ../in-image-ad.php:146
+msgid "Maximum number of digits is 4."
+msgstr ""
+
+#: ../in-image-ad.php:155
+msgid "Must be a valid URL."
+msgstr ""
+
+#: ../in-image-ad.php:162
+msgid "Must be a valid CSS-HEX color format."
+msgstr ""
+
+#: ../in-image-ads-manager.php:166
+msgid "In Image Ads Manager"
+msgstr ""
+
+#: ../in-image-ads-manager.php:167
+msgid "In Image Ads"
+msgstr ""
+
+#: ../in-image-ads-manager.php:174
+msgid "Overview - List of all In Image Ads"
+msgstr ""
+
+#: ../in-image-ads-manager.php:175 ../in-image-ads-manager.php:335
+msgid "Overview"
+msgstr ""
+
+#: ../in-image-ads-manager.php:182
+msgid "Add In Image Ad"
+msgstr ""
+
+#: ../in-image-ads-manager.php:183 ../in-image-ads-manager.php:366
+#: ../in-image-ads-manager.php:493
+msgid "Add Ad"
+msgstr ""
+
+#: ../in-image-ads-manager.php:190 ../in-image-ads-manager.php:924
+msgid "Edit In Image Ad"
+msgstr ""
+
+#: ../in-image-ads-manager.php:191
+msgid "Edit Ad"
+msgstr ""
+
+#: ../in-image-ads-manager.php:304
+msgid "&laquo;"
+msgstr ""
+
+#: ../in-image-ads-manager.php:305
+msgid "&raquo;"
+msgstr ""
+
+#: ../in-image-ads-manager.php:340
+msgid "Show all ads"
+msgstr ""
+
+#: ../in-image-ads-manager.php:341
+msgid "All"
+msgstr ""
+
+#: ../in-image-ads-manager.php:348
+msgid "Show active ads"
+msgstr ""
+
+#: ../in-image-ads-manager.php:349
+msgid "Active"
+msgstr ""
+
+#: ../in-image-ads-manager.php:356
+msgid "Show trash ads"
+msgstr ""
+
+#: ../in-image-ads-manager.php:357 ../in-image-ads-manager.php:465
+msgid "Trash"
+msgstr ""
+
+#: ../in-image-ads-manager.php:365 ../in-image-ads-manager.php:492
+msgid "Add a new in image ad"
+msgstr ""
+
+#: ../in-image-ads-manager.php:372
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: ../in-image-ads-manager.php:385 ../in-image-ads-manager.php:482
+#: ../in-image-ads-manager.php:732
+msgid "ID"
+msgstr ""
+
+#: ../in-image-ads-manager.php:388 ../in-image-ads-manager.php:485
+#: ../in-image-ads-manager.php:818
+msgid "Image Size"
+msgstr ""
+
+#: ../in-image-ads-manager.php:396
+msgid "No ads existing."
+msgstr ""
+
+#: ../in-image-ads-manager.php:408 ../in-image-ads-manager.php:416
+msgid "Edit this ad"
+msgstr ""
+
+#: ../in-image-ads-manager.php:417 ../in-image-ads-manager.php:723
+msgid "Edit"
+msgstr ""
+
+#: ../in-image-ads-manager.php:433
+msgid "Restore this ad"
+msgstr ""
+
+#: ../in-image-ads-manager.php:434
+msgid "Restore"
+msgstr ""
+
+#: ../in-image-ads-manager.php:447
+msgid "Delete this ad"
+msgstr ""
+
+#: ../in-image-ads-manager.php:448
+msgid "Delete"
+msgstr ""
+
+#: ../in-image-ads-manager.php:464
+msgid "Trash this ad"
+msgstr ""
+
+#: ../in-image-ads-manager.php:704
+msgid "The following errors occurred"
+msgstr ""
+
+#: ../in-image-ads-manager.php:714
+msgid "Successfully added"
+msgstr ""
+
+#: ../in-image-ads-manager.php:716
+msgid "Successfully updated"
+msgstr ""
+
+#: ../in-image-ads-manager.php:723
+msgid "Add"
+msgstr ""
+
+#: ../in-image-ads-manager.php:728
+msgid "Status"
+msgstr ""
+
+#: ../in-image-ads-manager.php:736
+msgid "Undefined"
+msgstr ""
+
+#: ../in-image-ads-manager.php:746 ../in-image-ads-manager.php:747
+msgid "Cancel"
+msgstr ""
+
+#: ../in-image-ads-manager.php:755
+msgid "Save"
+msgstr ""
+
+#: ../in-image-ads-manager.php:761
+msgid "Update"
+msgstr ""
+
+#: ../in-image-ads-manager.php:775
+msgid "Data"
+msgstr ""
+
+#: ../in-image-ads-manager.php:785
+msgid "Choose a title for your ad."
+msgstr ""
+
+#: ../in-image-ads-manager.php:796
+msgid "Choose a text for your ad."
+msgstr ""
+
+#: ../in-image-ads-manager.php:807
+msgid ""
+"Choose a url for your ad. When a user clicks on your ad he or she will be "
+"redirected to this URL."
+msgstr ""
+
+#: ../in-image-ads-manager.php:813
+msgid ""
+"Note: If the title or the text is too long and so does not fit into the ad "
+"box it will be clipped and filled with ellipsis."
+msgstr ""
+
+#: ../in-image-ads-manager.php:829
+msgid "Specify the image width."
+msgstr ""
+
+#: ../in-image-ads-manager.php:841
+msgid "Specify the image height."
+msgstr ""
+
+#: ../in-image-ads-manager.php:847
+msgid ""
+"Note: Meant is the size of the image by which the ad will be overlayed. But "
+"this is just used for preview and for the overview page as additional "
+"information. The width of the ad is responsive and so always fits into the "
+"related image."
+msgstr ""
+
+#: ../in-image-ads-manager.php:853
+msgid "Style"
+msgstr ""
+
+#: ../in-image-ads-manager.php:865
+msgid "Choose a background color for your ad."
+msgstr ""
+
+#: ../in-image-ads-manager.php:878
+msgid "Choose a title color for your ad."
+msgstr ""
+
+#: ../in-image-ads-manager.php:891
+msgid "Choose a text color for your ad."
+msgstr ""
+
+#: ../in-image-ads-manager.php:897
+msgid ""
+"Note: When choosing a color keep in mind that the background of the ad will "
+"have a slight opacity."
+msgstr ""
+
+#: ../in-image-ads-manager.php:902
+msgid "Preview"
+msgstr ""
+
+#: ../in-image-ads-manager.php:908
+msgid "Note: The height the of the ad is limited to 50px."
+msgstr ""
+
+#: ../in-image-ads-manager.php:927
+msgid "Choose an existing ad on the overview page to edit an ad."
+msgstr ""
